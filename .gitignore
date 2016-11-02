@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# 开发工具生成
+.idea
+
+# npm包
+node_modules
+
+# dist
+dist

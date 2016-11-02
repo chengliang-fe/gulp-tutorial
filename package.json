@@ -1,0 +1,29 @@
+{
+  "name": "gulp-tutorial",
+  "version": "1.0.0",
+  "description": "一个简单的gulp教程",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-util": "^3.0.7",
+    "q": "^1.4.1",
+    "through2": "^2.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.coding.net/qingzhui/gulp-tutorial.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "qingzhui",
+  "license": "ISC"
+}
